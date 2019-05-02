@@ -1,5 +1,7 @@
 package no.hvl.dat110.aciotdevice.controller;
 
+import java.io.IOException;
+
 import no.hvl.dat110.aciotdevice.client.AccessCode;
 import no.hvl.dat110.aciotdevice.client.RestClient;
 import no.hvl.dat110.aciotdevice.pins.Wiring;

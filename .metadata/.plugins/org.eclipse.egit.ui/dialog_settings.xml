@@ -2,11 +2,13 @@
 <section name="Workbench">
 	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
 	<list key="EGit.KnownHosts">
-		<item value="bitbucket.org"/>
 		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/selabhvl/dat110-project4-startcode-cloudservice.git"/>
+		<item value="https://github.com/h182918/DAT110-PROJECT4B.git"/>
 		<item value="https://github.com/selabhvl/dat110-project4-startcode-iotdevice.git"/>
 	</list>
 	<section name="GitImportWizard">

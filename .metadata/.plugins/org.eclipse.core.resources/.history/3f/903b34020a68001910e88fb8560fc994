@@ -1,0 +1,62 @@
+package no.hvl.dat110.aciotdevice.client;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
+import java.net.URL;
+
+import com.google.gson.Gson;
+
+
+public class RestClient {
+
+	public RestClient() {
+
+	}
+
+	private static String logpath = "/accessdevice/log";
+
+	public void doPostAccessEntry(String message) {
+
+		// TODO: implement a HTTP POST on the service to post the message
+		
+	}
+	
+	private static String codepath = "/accessdevice/code";
+	
+	public AccessCode doGetAccessCode() throws IOException {
+
+		AccessCode code = null;
+		
+		// TODO: implement a HTTP GET on the service to get current access code
+		URL url;
+		HttpURLConnection con = null;
+		try {
+			url = new URL("https://localhost:8080/" + codepath);
+			con = (HttpURLConnection) url.openConnection();
+			con.setRequestMethod("GET");
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+		
+		if(con != null) {
+			Gson gson = new Gson();
+			String inputLine;
+			code = new AccessCode();
+			
+			BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+			StringBuffer content = new StringBuffer();
+			
+			while ((inputLine = in.readLine()) != null) {
+					    content.append(inputLine);
+			}
+			
+			code.setAccesscode(gson.fromJson(inputLine, AccessCode.class).getAccesscode());
+			in.close();
+		}
+		return code;
+	}
+}

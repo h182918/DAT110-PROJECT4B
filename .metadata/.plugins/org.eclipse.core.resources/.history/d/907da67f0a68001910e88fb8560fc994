@@ -1,0 +1,38 @@
+package no.hvl.dat110.aciotdevice.client;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
+import java.net.URL;
+
+import com.google.gson.Gson;
+
+
+public class RestClient {
+
+	public RestClient() {
+
+	}
+
+	private static String logpath = "/accessdevice/log";
+
+	public void doPostAccessEntry(String message) {
+
+		// TODO: implement a HTTP POST on the service to post the message
+		
+	}
+	
+	private static String codepath = "/accessdevice/code";
+	
+	public AccessCode doGetAccessCode() throws IOException {
+
+		AccessCode code;
+		
+		// TODO: implement a HTTP GET on the service to get current access code
+
+		return code;
+	}
+}

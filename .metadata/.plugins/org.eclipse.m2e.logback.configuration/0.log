@@ -164,3 +164,40 @@
 2019-04-25 12:07:10,724 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-04-25 12:07:10,724 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
 2019-04-25 12:07:10,729 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:07:10,733 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-04-25 12:52:24,541 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:52:24,542 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-04-25 12:52:24,547 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:52:24,551 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-04-25 13:00:05,501 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:00:05,501 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-04-25 13:00:05,506 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:00:05,510 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-04-25 13:14:22,943 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:14:22,944 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-04-25 13:14:22,949 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:14:22,953 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-04-25 13:31:22,607 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:31:22,607 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-04-25 13:31:22,617 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:31:22,624 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-04-25 14:57:42,722 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 14:57:42,723 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-04-25 14:57:42,727 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 14:57:42,731 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-04-26 10:57:36,786 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-01 13:10:40,396 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-01 13:10:54,182 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 13:10:54,183 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-05-01 13:10:54,184 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 13:10:54,185 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-05-01 13:31:33,671 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-01 13:31:36,699 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 13:31:36,700 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-05-01 13:31:36,703 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 13:31:36,704 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
+2019-05-02 12:14:27,107 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-02 12:14:39,737 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-02 12:14:39,738 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\main\resources
+2019-05-02 12:14:39,740 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-02 12:14:39,740 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\torke\DAT110PROJECT4\cloudservice\ACCloudService\src\test\resources
